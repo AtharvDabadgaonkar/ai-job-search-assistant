@@ -2,7 +2,7 @@
 
 ## What this is
 
-Jobseer is a concept product that takes the most painful part of job hunting — tailoring every application — and makes the AI do it. You tell the assistant what you want, it matches roles, tailors your resume per job, and surfaces a ready-to-apply queue.
+Jobseer is a concept product that takes the most painful part of job hunting - tailoring every application - and makes the AI do it. You tell the assistant what you want, it matches roles, tailors your resume per job, and surfaces a ready-to-apply queue.
 
 This repo is a fully interactive case study: a working product slice embedded in the PM story that produced it. No backend, no build step — just open index.html.
 
