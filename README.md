@@ -14,14 +14,9 @@ A working slice of an AI job-search product: a clickable assistant, a live appli
 
 Just open `index.html` in a browser. That's it.
 
-## Host on GitHub Pages
-
-1. Push this folder to a repo.
-2. Settings → Pages → deploy from `main`, root folder.
-3. Your demo is live at:
-   `https://<username>.github.io/<repo>/`
-
-Because the demo is named `index.html`, GitHub Pages serves it at the repo root automatically.
 
 ---
 Built as a portfolio case study. Numbers reflect prototype user testing.
+
+## Author
+Atharv Dabadgaonkar
